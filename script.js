@@ -1,9 +1,7 @@
 (function () {
   "use strict";
 
-  // Step 1: Paste the makeString function from makeString.js
-  // Step 2: Paste the displayText function from displayText.js
-  // Step 3: Create names array
+
   var names = [
     "John",
     "Jenny",
